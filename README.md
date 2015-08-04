@@ -1,3 +1,12 @@
+# EDIT 
+
+Some python3 Flask/SQL Alchemy to normalize the CSV.
+
+
+## END EDIT
+
+
+
 The Museum of Modern Art (MoMA) Collection 
 ===================
 
